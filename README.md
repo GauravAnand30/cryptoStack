@@ -2,7 +2,7 @@
 
 CryptoStack is a React-based web application that displays all the cryptocurrencies in the market. It features real-time data, including price graphs and 24-hour high and low prices, fetched from the CoinGecko API.
 
-Check out the live demo [here](link-to-your-live-demo).
+Check out the live demo [here](https://cryptostacke.netlify.app/).
 
 ## Features
 
@@ -12,7 +12,7 @@ Check out the live demo [here](link-to-your-live-demo).
 
 ## Demo
 
-Check out the live demo [here](link-to-your-live-demo).
+Check out the live demo [here](https://crypto-stack-five.vercel.app/).
 
 ## ScreenShots
 ![]()
