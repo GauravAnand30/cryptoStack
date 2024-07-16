@@ -16,9 +16,9 @@ Check out the live demo [here](https://crypto-stack-five.vercel.app/).
 
 ## ScreenShots
 ![](https://github.com/GauravAnand30/cryptoStack/blob/main/Screenshots/Screenshot%202024-07-16%20121632.png)
-![]()
-![]()
-![]()
+![](https://github.com/GauravAnand30/cryptoStack/blob/main/Screenshots/Screenshot%202024-07-16%20121737.png)
+![](https://github.com/GauravAnand30/cryptoStack/blob/main/Screenshots/Screenshot%202024-07-16%20121845.png)
+![](https://github.com/GauravAnand30/cryptoStack/blob/main/Screenshots/Screenshot%202024-07-16%20121954.png)
 
 ## Installation
 
