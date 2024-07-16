@@ -1,6 +1,37 @@
-# React + Vite
+# CryptoStack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoStack is a React-based web application that displays all the cryptocurrencies in the market. It features real-time data, including price graphs and 24-hour high and low prices, fetched from the CoinGecko API.
+
+Check out the live demo [here](link-to-your-live-demo).
+
+## Features
+
+- **Real-time Data**: Fetches the latest cryptocurrency data using the CoinGecko API.
+- **Interactive Graphs**: Displays price graphs for each cryptocurrency.
+- **24-hour High and Low**: Shows the highest and lowest prices of cryptocurrencies in the last 24 hours.
+
+## Demo
+
+Check out the live demo [here](link-to-your-live-demo).
+
+## ScreenShots
+![]()
+![]()
+![]()
+![]()
+
+## Installation
+
+To run CryptoStack locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/GauravAnand30/cryptoStack.git
+   cd cryptoStack
+2. ```
+   npm install
+3. ```
+   run npm dev
 
 Currently, two official plugins are available:
 
